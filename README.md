@@ -2,7 +2,7 @@
 
 Cursando analise e desenvolvimento de sitemas (EAD) e fazendo diversos cursos pela alura em conjunto com a faculdade.
 
-## Tecnologias que estudo atualmente:
+## Tecnologias estudadas atualmente:
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
